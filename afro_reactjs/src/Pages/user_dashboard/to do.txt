@@ -1,0 +1,19 @@
+                   to do : 14 09 24
+    sur le catalogue
+
+trier
+crée des drodown pour les filtres
+filtrer
+revoir et faire des correction pour les updates de produits
+
+    les recherches
+
+page de résultats de recherches
+trier
+filtrer
+différent mode d'affichage: list , grid , carroussel
+
+        achat de produits
+le panier
+les achat normaux
+les achat express: myxp et xp
