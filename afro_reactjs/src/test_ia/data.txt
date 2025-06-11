@@ -1,4 +1,0 @@
-Your site has been successfully deployed! You can view it at: https://creative-genie-614cc9.netlify.app
-
-To transfer this Netlify project to your own account, you can use  this claim URL:
-https://app.netlify.com/claim?utm_source=bolt#eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGllbnRfaWQiOiI1aDZmZEstVktNTXZuRjNiRlZUaktfU2JKVGgzNlNfMjJheTlpTHhVX0Q4Iiwic2Vzc2lvbl9pZCI6IjQ2NDIzOTY2OjQ0MTE4NDEiLCJpYXQiOjE3NDU3NjM0Nzd9.tISbVjvWM_Dht0wP35nR-OnSibigtGgE6upygPvaxLo
