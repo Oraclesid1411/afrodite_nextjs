@@ -1,7 +1,7 @@
 // app/layout.jsx
 import './assets/css/new_styles.scss';
-// import './assets/css/vendor.css';
-// import './assets/css/style_main-min.css';
+import './assets/css/vendor.css';
+import './assets/css/style_main-min.css';
 import './assets/css/style.scss';
 import 'react-toastify/dist/ReactToastify.css';
 
