@@ -13,7 +13,7 @@ export default function LayoutWrapper({ children }) {
 
   return (
     <div id="root">
-      {/* {!isAuthPage && <Header_menu />} */}
+      {!isAuthPage && <Header_menu />}
       <main>
         <ToastContainer className="toast_style" />
         <Suspense fallback={<div>Chargement...</div>}>
