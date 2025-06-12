@@ -14,10 +14,12 @@ export default function HomePage() {
     setIsVisible(true);
   }, []);
 
-  return (
-    <>
-    {/* test */}
-    <MainContent />
-    </>
-  );
+  return <h1>Page d'accueil fonctionnelle ✅</h1>;
+  // return (
+  //   <>
+    
+  //   {/* test */}
+  //   {/* <MainContent /> */}
+  //   </>
+  // );
 }
