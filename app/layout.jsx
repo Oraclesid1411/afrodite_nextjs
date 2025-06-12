@@ -5,10 +5,10 @@ import { Suspense  } from "react";
 import { usePathname } from 'next/navigation'; // 👈 pour connaître la route
 
 // import './globals.css';
-import '../public/assets/css/new_styles.scss';
-import '../public/assets/css/vendor.css';
-import '../public/assets/css/style_main-min.css';
-import '../public/assets/css/style.scss';
+import './assets/css/new_styles.scss';
+import './assets/css/vendor.css';
+import './assets/css/style_main-min.css';
+import './assets/css/style.scss';
 // import { Inter } from 'next/font/google';
 // import { ThemeProvider } from 'next-themes';
 // import Navigation from '@/components/Navigation';

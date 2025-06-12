@@ -2,7 +2,7 @@
 
 const nextConfig = {
   reactStrictMode: true, // Bonnes pratiques en dev
-  swcMinify: true,       // Minification performante
+  // swcMinify: true,       // Minification performante
   // output: 'export',      // Pour un site 100% statique (SSG)
 
   eslint: {
